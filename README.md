@@ -4,18 +4,18 @@
 This is a simple e-commerce front-end project built using HTML, CSS, and JavaScript. It simulates an online shopping experience, including product display, cart functionality, and order placement.
 
 ## 📁 Project Structure
+    bash
+    ecommerce-main/
+    ├── css/ # Stylesheets
+    ├── img/ # Product images
+    ├── js/ # JavaScript (includes jQuery)
+    ├── cart.html # Shopping cart page
+    ├── content.html # Product listing page
+    ├── contentDetails.html # Product detail view
+    ├── index.html # Homepage
+    ├── orderPlaced.html # Order confirmation
+    ├── header.html / footer.html / slider.html # Page components
 
-bash
-ecommerce-main/
-├── css/ # Stylesheets
-├── img/ # Product images
-├── js/ # JavaScript (includes jQuery)
-├── cart.html # Shopping cart page
-├── content.html # Product listing page
-├── contentDetails.html # Product detail view
-├── index.html # Homepage
-├── orderPlaced.html # Order confirmation
-├── header.html / footer.html / slider.html # Page components
 
 ## 🚀 Features
 
