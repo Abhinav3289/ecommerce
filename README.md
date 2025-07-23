@@ -5,6 +5,7 @@ This is a simple e-commerce front-end project built using HTML, CSS, and JavaScr
 
 ## 📁 Project Structure
 
+bash
 ecommerce-main/
 ├── css/ # Stylesheets
 ├── img/ # Product images
